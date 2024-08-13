@@ -1,0 +1,5 @@
+When you press "y" the restrictions are removed and you can move above the height limit
+Some peaks go past the height limit and thus we can not navigate to the top of some peaks.
+While being higher than the height limit and you press "y" again, then you will be unable to move unless you press "y" again to remove the restrictions.
+If you turn off the restrictions and navigate outside the terrain, and then press "y" again then you will also be locked in place similar to going past the height limit
+Navigating beneath the terrain while having the restrictions off and the turing the restrictions back on will warp you to the terrain and you will be able to move.
